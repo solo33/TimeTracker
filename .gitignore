@@ -1,0 +1,14 @@
+node_modules/
+dist/
+dev-dev-dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+*.iml
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
